@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="daniel26tipp@gmail.com" title="Email Address"><code>daniel26tipp@gmail.com</code></a> │ <a href="https://en.wikipedia.org/wiki/Ireland" title="Ireland"><code>Ireland</code></a> │ <a href="https://daniel12331.github.io/daniel-portfolio/" title="Website"> <code>Website</code></a> │ <a href="[https://daniel12331.github.io/daniel-portfolio/](https://leetcode.com/sniff123/)" title="LeetCode"> https://leetcode.com/sniff123/
+<a href="daniel26tipp@gmail.com" title="Email Address"><code>daniel26tipp@gmail.com</code></a> │ <a href="https://en.wikipedia.org/wiki/Ireland" title="Ireland"><code>Ireland</code></a> │ <a href="https://daniel12331.github.io/daniel-portfolio/" title="Website"> <code>Website</code></a> │ <a href="https://leetcode.com/sniff123/" title="LeetCode"> <code>LeetCode</code></a>
 </p>
 <p align="center">
 <img width="500" src="https://github.com/daniel12331/daniel12331/blob/master/assets/tumblr_n343swDgir1qb8uexo1_r3_500.gif" />

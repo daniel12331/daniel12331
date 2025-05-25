@@ -17,27 +17,6 @@
   </kbd>
 </p>
 
-
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      <img align="right" width="250" src="https://github.com/daniel12331/daniel12331/blob/master/assets/daniel.JPG" alt="Alicia Sykes" />
-      
-<blockquote>
-I am a dedicated and ambitious software engineering student currently studying in Ireland. 
-   
-I have a strong interest in the field of cloud computing and cyber security. With a passion for staying up to date with the latest technology trends and developments, I am constantly seeking out new opportunities to learn and grow. Whether through coursework or hands-on projects.
-   
-I bring a strong work ethic and a desire to succeed to everything I do. I am determined to make a positive impact in the field of technology, with a particular focus on cloud computing and cyber security.
-
-</blockquote>
-    
-----
-  
-  </p>
-</details>
-
 <!-- Tech Stack -->  
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
